@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, willkommen auf meinem GitHub-Profil!
 
-<!--
-**feso13122/feso13122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Über mich
+Ich bin ein leidenschaftlicher **FiveM** Developer mit Fokus auf:
+- 🛠 **Lua** (Server & Client Scripting)
+- 🎨 **HTML / CSS** (UI-Design & Styling)
+- ⚡ **JavaScript** (Interaktivität & Logik)
 
-Here are some ideas to get you started:
+Ich entwickle individuelle Scripts, Ressourcen und UIs für **FiveM**-Server  
+und kombiniere dabei **Performance**, **Funktionalität** und **Design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+| Sprache / Tool | Erfahrung |
+| -------------- | --------- |
+| Lua            | ⭐⭐⭐⭐⭐ |
+| HTML           | ⭐⭐⭐ |
+| CSS            | ⭐⭐⭐ |
+| JavaScript     | ⭐⭐⭐ |
+
+---
+
+## 📫 Kontakt
+- Discord: `feso1312`
+- GitHub: [Hier bist du schon 😉](https://github.com/feso13122)
+
+---
+
+> *"Code ist wie Magie – wenn er gut ist, sieht er einfach aus."* ✨
