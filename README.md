@@ -2,7 +2,7 @@
 
 **Head Developer** @ [NextModz-Studios](https://discord.gg/FMu9hxsDAu)
 
-Specialized in **FiveM Development** with a focus on creating robust, scalable server solutions.
+Specialized in **FiveM Development And Discord Development** with a focus on creating robust, scalable server solutions.
 
 ---
 
