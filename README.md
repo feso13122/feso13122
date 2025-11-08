@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Feso
 
-**Head Developer** @ [NextModz-Studios](https://discord.gg/FMu9hxsDAu)
+**Head Developer** For [NextModz-Studios](https://discord.gg/FMu9hxsDAu)
 
 Specialized in **FiveM Development And Discord Development** with a focus on creating robust, scalable server solutions.
 
