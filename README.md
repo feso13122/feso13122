@@ -1,30 +1,58 @@
-# 👋 Hey, willkommen auf meinem GitHub-Profil!
+# 👋 Hi, I'm Feso
 
-## 🚀 Über mich
-Ich bin ein leidenschaftlicher **FiveM** Developer mit Fokus auf:
-- 🛠 **Lua** (Server & Client Scripting)
-- 🎨 **HTML / CSS** (UI-Design & Styling)
-- ⚡ **JavaScript** (Interaktivität & Logik)
+**Head Developer** @ [NextModz-Studios](https://discord.gg/FMu9hxsDAu)
 
-Ich entwickle individuelle Scripts, Ressourcen und UIs für **FiveM**-Server  
-und kombiniere dabei **Performance**, **Funktionalität** und **Design**.
+Specialized in **FiveM Development** with a focus on creating robust, scalable server solutions.
 
 ---
+
+## 🛠️ Tech Stack
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 💻 Skills
 | Sprache / Tool | Erfahrung |
 | -------------- | --------- |
 | Lua            | ⭐⭐⭐⭐⭐ |
-| HTML           | ⭐⭐⭐ |
 | CSS            | ⭐⭐⭐ |
 | JavaScript     | ⭐⭐⭐ |
+| MySQL          | ⭐⭐⭐ |
 
 ---
 
-## 📫 Kontakt
-- Discord: `feso1312`
-- GitHub: [Hier bist du schon 😉](https://github.com/feso13122)
+## 🚀 Current Project
+
+### **Next-Framework**
+A custom-built FiveM framework designed for optimal performance and modularity. Developed as the core foundation for NextModz-Studios servers.
+
+**Key Features:**
+- Modular architecture
+- Performance-optimized
+- Scalable infrastructure
+- Developer-friendly
 
 ---
 
-> *"Code ist wie Magie – wenn er gut ist, sieht er einfach aus."* ✨
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feso13122&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?feso13122=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
+---
+
+## 🤝 NextModz-Studios
+
+Building innovative FiveM solutions with cutting-edge technology and professional support.
+
+---
+
+<div align="center">
+  
+**Open for collaboration** | **Professional inquiries welcome**
+
+</div>
+
