@@ -2,7 +2,7 @@
 
 **Head Developer** For [@NextModz-Studios](https://github.com/Nextmodz-Studios) 
 
-[[NextModz-Studios](https://discord.gg/FMu9hxsDAu)](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[https://discord.gg/FMu9hxsDAu](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 Specialized in **FiveM Development And Discord Development** with a focus on creating robust, scalable server solutions.
 
