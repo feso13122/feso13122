@@ -41,7 +41,7 @@ A custom-built FiveM framework designed for optimal performance and modularity. 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feso13122&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?feso13122=feso13122&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?feso13122=feso13122&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
