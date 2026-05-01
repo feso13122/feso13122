@@ -19,10 +19,10 @@ Specialized in **FiveM Development And Discord Development** with a focus on cre
 | Sprache / Tool | Erfahrung |
 | -------------- | --------- |
 | Lua            | ⭐⭐⭐⭐⭐ |
-| CSS            | ⭐⭐⭐ |
-| JavaScript     | ⭐⭐⭐ |
-| discord.js     | ⭐⭐⭐ |
-| MySQL          | ⭐⭐⭐ |
+| CSS            | ⭐⭐⭐⭐ |
+| JavaScript     | ⭐⭐⭐⭐  |
+| discord.js     | ⭐⭐⭐⭐  |
+| MySQL          | ⭐⭐⭐⭐  |
 
 ---
 
