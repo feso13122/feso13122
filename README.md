@@ -47,7 +47,7 @@ A custom-built FiveM framework designed for optimal performance and modularity. 
 
 ---
 
-## 🤝 NextModz-Studios
+## 🤝 [NextModz-Studios](https://github.com/Nextmodz-Studios)
 
 Building innovative FiveM solutions with cutting-edge technology and professional support.
 
